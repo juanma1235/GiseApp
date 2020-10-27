@@ -1,5 +1,7 @@
 # GiseApp
 
+[Image](GiseApp/Screenshots/Frases.png)
+
 [![Swift Version][swift-image]][swift-url]
 [![Build Status][travis-image]][travis-url]
 [![License][license-image]][license-url]
