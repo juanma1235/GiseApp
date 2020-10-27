@@ -1,6 +1,6 @@
 # GiseApp
 
-[Image](GiseApp/Screenshots/Frases.png)
+![header image](https://github.com/juanma1235/GiseApp/Screenshot/Frases.png)
 
 [![Swift Version][swift-image]][swift-url]
 [![Build Status][travis-image]][travis-url]
