@@ -14,9 +14,7 @@ She's been using my app for a couple of weeks now and finds it very helpfull, es
 
 ## Installation
 
-#### Manually
-1. Download and drop ```YourLibrary.swift``` in your project.  
-2. Congratulations!  
+Yet to come.
 
 ## Screenshots
 
