@@ -14,7 +14,7 @@ She's been using my app for a couple of weeks now and finds it very helpfull, es
 
 ## Installation
 
-Soon i'll be improving my app for it to work for anyone , not just my aunt.
+Soon I'll be improving my app for it to work for anyone , not just my aunt.
 
 ## Screenshots
 
